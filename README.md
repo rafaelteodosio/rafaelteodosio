@@ -44,7 +44,6 @@
 ![Three.JS](https://img.shields.io/badge/-Three.JS-000000?&style=for-the-badge&logo=three.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white)
-![jenkins](https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ## &#x1f4c8; GitHub Stats
