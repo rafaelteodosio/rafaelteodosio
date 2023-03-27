@@ -21,9 +21,9 @@
 
 ## About Me:
 
-- 🎓 I'm currently on 8th period of Software Engineering at University of Brasilia
+- 🎓 I'm a Software Engineer
 - 🕹 In free time you will find me playing Video Games, Pokémon or watching anime
-- 👓 I'm currently a Software Developer Intern at [Embraer S.A](https://embraer.com/)
+- 👓 I'm currently a Mid-level FullStack Developer Intern at [Vobi](https://www.vobi.com.br/)
 - 🎧 I love play basketball and hangout with my friends
 - 💻 Always interested in starting a new project
 
