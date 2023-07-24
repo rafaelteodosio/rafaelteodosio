@@ -46,14 +46,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white)
 
 
-## &#x1f4c8; GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rafaelteodosio&show_icons=true&theme=dark&line_height=40">
-</p>
-
-
-
 
 
 
