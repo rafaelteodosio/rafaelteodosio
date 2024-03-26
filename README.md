@@ -17,7 +17,7 @@
 
 - 🎓 I'm a Software Engineer
 - 🕹 In free time you will find me playing Video Games, Pokémon or watching anime
-- 👓 I'm currently a Mid-level FullStack Developer Intern at [Vobi](https://www.vobi.com.br/)
+- 👓 I'm currently a Mid-level Full Stack Developer
 - 🎧 I love play basketball and hangout with my friends
 - 💻 Always interested in starting a new project
 
